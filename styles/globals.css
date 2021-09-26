@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  body {
+    @apply w-screen overflow-x-hidden bg-bgblue font-sora text-text;
+  }
+}
+
+body::-webkit-scrollbar,
+.hidescrollbar::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #c7d3ff;
+  border: 3px solid var(--navy);
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track,
+.hidescrollbar::-webkit-scrollbar-track {
+  background: #222e50 !important;
+}
+
+.hidescrollbar::-webkit-scrollbar-thumb {
+  background-color: #52dee5;
+  border: 3px solid var(--navy);
+  border-radius: 10px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 300px;
+  background: #fff;
+}
+
+.neon-underline:hover {
+  text-decoration: underline;
+  text-decoration-color: #52dee5;
+}

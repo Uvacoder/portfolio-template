@@ -1,0 +1,124 @@
+{
+  "name": "Avneesh Agarwal",
+  "image": "/Me.png",
+  "profession": "FullStack web developer",
+  "intro": "Focused on creating amazing UIs to solve business problems around the globe. I’m a school kid participating in Hackathons and solving problems to build something cool :D",
+  "about": "I am a fullstack web developer, who loves to design and develop beautiful websites. I have been coding for over a year now. One of my hobbies is writing, I love to document my journey by writing blog posts and also teach others through them.",
+  "skills": [
+    {
+      "src": "/logos/firebase.svg",
+      "name": "Firebase",
+      "link": "https://firebase.google.com/"
+    },
+    {
+      "src": "/logos/github.svg",
+      "name": "GitHub",
+      "link": "https://github.com/"
+    },
+    {
+      "src": "/logos/react.svg",
+      "name": "React",
+      "link": "https://reactjs.org/"
+    },
+    {
+      "src": "/logos/tailwind.svg",
+      "name": "Tailwind",
+      "link": "https://tailwindcss.com/"
+    },
+    {
+      "src": "/logos/typescript.svg",
+      "name": "Typescreipt",
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "src": "/logos/figma.svg",
+      "name": "Figma",
+      "link": "https://www.figma.com/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Voyager",
+      "image": "/projects/Voyagger.png",
+      "about": "These tough times have made us all aware of the importance of our loved ones and through this app, users can bring a their family and friend's faces by sending them their favoritedelicacy, medicines, or a simple heartfelt gift.",
+      "tech": ["Next.js", "Auth0", "Firebase", "TailwindCSS"],
+      "links": {
+        "GitHub": "https://github.com/avneesh0612/voyagger",
+        "Live": "https://www.voyagger.tech"
+      }
+    },
+    {
+      "name": "ChatCube",
+      "image": "/projects/Chatcube.png",
+      "about": "ChatCube is a 1:1 chatting application. You can invite your friends and chat with in realtime. You can send them emojis, photos text messages and many more.",
+      "tech": ["Next.js", "Auth0", "Firebase", "TailwindCSS"],
+      "links": {
+        "GitHub": "https://github.com/avneesh0612/ChatCube",
+        "Live": "https://www.chatcube.me"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "value": "Avneesh is a very fast learner and is a very sincere individual. He explores new technologies and is unafraid of trying our things.Avneesh on React JS and Next JS and demonstrated good business understanding apart from the programming and user skills.",
+      "name": "Summet Mahapatra",
+      "relation": "StackFusion"
+    },
+    {
+      "value": "Avneesh is an amazing web developer! He has created many dope websites. I have personally worked on a project with him and the experience was amazing as he learned some new things from and even I learned some new things from Avneesh",
+      "name": "Prashoon Bhatacharjee",
+      "relation": "Co-worker"
+    },
+    {
+      "value": "Avneesh is a very talented, helpful and a kind person. I can approve of his react skills as he has helped me and a lot of people in the community while they face issues, he is an active blogger and has written really useful articles in web development field.",
+      "name": "Ashutosh Pandey",
+      "relation": "Friend"
+    },
+    {
+      "value": "Avneesh is a very fast learner and is a very sincere individual. He explores new technologies and is unafraid of trying our things.Avneesh on React JS and Next JS and demonstrated good business understanding apart from the programming and user skills.",
+      "name": "Summet Mahapatra",
+      "relation": "StackFusion"
+    },
+    {
+      "value": "Avneesh is an amazing web developer! He has created many dope websites. I have personally worked on a project with him and the experience was amazing as he learned some new things from and even I learned some new things from Avneesh",
+      "name": "Prashoon Bhatacharjee",
+      "relation": "Co-worker"
+    },
+    {
+      "value": "Avneesh is a very talented, helpful and a kind person. I can approve of his react skills as he has helped me and a lot of people in the community while they face issues, he is an active blogger and has written really useful articles in web development field.",
+      "name": "Ashutosh Pandey",
+      "relation": "Friend"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "icon": "github.svg",
+      "link": "https://github.com/avneesh0612"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg",
+      "link": "https://instagram.com/avneesh.codes"
+    }, {
+      "name": "Email ID",
+      "icon": "mail.svg",
+      "link": "mailto:avneeshagarwal0612@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/avneesh-agarwal-78312b20a"
+    },
+     {
+      "name": "Twitter",
+      "icon": "twitter.svg",
+      "link": "https://twitter.com/avneesh0612"
+    },
+    {
+      "name": "Hashnode",
+      "icon": "hashnode.svg",
+      "link": "https://blog.avneesh.tech"
+    }
+  ]
+}
